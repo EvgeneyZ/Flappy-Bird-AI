@@ -1,1 +1,3 @@
-# Flappy-Bird-AI
+# Flappy Bird AI
+
+Using neural network
